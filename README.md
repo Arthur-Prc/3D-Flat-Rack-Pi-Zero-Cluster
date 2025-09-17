@@ -1,5 +1,4 @@
 # 3D-Flat-Rack-Pi-Zero-Cluster
-Raspberry Pi Zero Wall Rack (4× + USB Hub)
 
 Raspberry Pi Zero Wall Rack (4× + USB Hub)
 This is a simple 3D-printable wall-mounted tray designed to hold 4 Raspberry Pi Zero boards side-by-side and one USB hub below them.
