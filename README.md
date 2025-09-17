@@ -14,3 +14,5 @@ Open-frame design (no cover, no ventilation)
 How to Export STL
 
 Install OpenSCAD
+
+![pi_zero_wall_rack_with_holes](https://github.com/user-attachments/assets/a59628cd-c8f0-4aac-9182-be7834d28bdc)
